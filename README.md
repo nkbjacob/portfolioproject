@@ -11,4 +11,4 @@ The JavaScript is a combination of found code from helpful resources and my own 
 The site was built using the Atom text editor. 
 
 Note: for the 8 to Abolition design project, the button links to an external squarespace page that requires a password. The password is 8toabolish. 
-Note: rhizomedesignco.com also currently requires a password. That password is rhizome. 
+Note: rhizomedesignco.com also currently requires a password. That password is rhizome. As a disclaimer, this personal squarespace website for my business is still a work in progress and is not yet finished. 
