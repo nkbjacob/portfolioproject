@@ -45,7 +45,7 @@ h1, h2 {
   margin: 0;
 }
 .content-wrap {
-  max-width: 800px;
+  max-width: 1000px;
   width: 85%;
   margin: 0 auto;
   padding: 60px 0
@@ -72,13 +72,17 @@ h3 {
 header {
 
 }
+
+
 .headshot {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 40px;
+  padding-bottom: 50px;
 }
 .profile-link a{
   color: #94A89A;
+  padding-bottom: 50px;
 }
 /* Projects
 ------------------------------*/
@@ -149,6 +153,11 @@ footer {
     header, footer {
     text-align: center;
     }
+  .header-item img {
+    float: left;
+    margin-right: 20px;
+    padding-bottom: 40px;
+  }
   .project-item img {
     float: left;
     margin-right: 20px;
